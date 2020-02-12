@@ -1,7 +1,5 @@
 # Junior Developer Resume
 
-## First Name / Last Name
-
 ![Imgur](https://i.imgur.com/1vlm2bx.jpg)
 
 **Uladzislau Sasnouski**
