@@ -91,3 +91,5 @@ Engineering Technology.
 At the moment, my **English level is A1**. I am studying at an English school. Duration - **3 months**.
 
 Previously studied English at school and college.
+
+***I will be glad to cooperate with you!***
