@@ -26,6 +26,8 @@ But no. I sit for **4 hours** a day and every time I discover something new in p
 - `MySql`
 - `HTTP`
 - `CSS`
+- `Sony Vegas`
+- `CreoParametrick`
 
 ## Code examples
 
