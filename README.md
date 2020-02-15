@@ -1,1 +1,1 @@
-https://svatoybober.github.io/rsschool-cv/cv
+https://svatoybober.github.io/rsschool-cv
