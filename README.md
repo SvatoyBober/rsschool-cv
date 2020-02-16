@@ -1,2 +1,2 @@
 # rsschool-cv
-## gh-pages
+gh-pages
