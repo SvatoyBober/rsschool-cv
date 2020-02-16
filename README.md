@@ -1,1 +1,2 @@
-https://svatoybober.github.io/rsschool-cv/
+#rsschool-cv
+##gh-pages
